@@ -1,1 +1,3 @@
-lottie-flutter-web
+lottie-flutter-web-example
+
+A repository to host an example lottie flutter compilation
